@@ -3,7 +3,7 @@ body {
     font-weight: bold;
     text-align: center;
     background-image: url(station2.jpg);
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
