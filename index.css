@@ -2,12 +2,10 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     text-align: center;
-}
- .background {
     background-image: url("station2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
- }
+}
 
 h1 {
     margin-top: 40px;
